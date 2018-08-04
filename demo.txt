@@ -1,3 +1,8 @@
+class sample()
+{
+s.o.p "help"
+}
+
 class demo
 {
 p.s. void main(...)
